@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 2,
+    "mediaType": "application/vnd.oci.image.manifest.v1+json",
+    "artifactType": "application/vnd.sysext+raw",
+    "config": {
+        "mediaType": "application/vnd.oci.empty.v1+json",
+        "digest": "",
+        "size": 0
+    },
+    "sysext": {
+        "mediaType": "application/vnd.sysext.raw.v1+raw",
+        "digest": "",
+        "size": ""
+    }
+}
